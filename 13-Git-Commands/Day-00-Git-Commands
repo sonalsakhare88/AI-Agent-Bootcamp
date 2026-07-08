@@ -1,0 +1,7 @@
+| Command      | Meaning                                  |
+| ------------ | ---------------------------------------- |
+| `git status` | Shows what's changed                     |
+| `git add .`  | Stages changes for the next commit       |
+| `git commit` | Saves a snapshot of your work locally    |
+| `git push`   | Uploads your commits to GitHub           |
+| `git pull`   | Downloads the latest changes from GitHub |
