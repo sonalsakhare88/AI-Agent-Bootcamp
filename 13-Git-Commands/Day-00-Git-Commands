@@ -1,7 +1,10 @@
-| Command      | Meaning                                  |
-| ------------ | ---------------------------------------- |
-| `git status` | Shows what's changed                     |
-| `git add .`  | Stages changes for the next commit       |
-| `git commit` | Saves a snapshot of your work locally    |
-| `git push`   | Uploads your commits to GitHub           |
-| `git pull`   | Downloads the latest changes from GitHub |
+| Command                                                            | Meaning                                  |
+| ------------------------------------------------------------------ | ---------------------------------------- |
+| `git status`                                                       | Shows what's changed                     |
+| `git add .`                                                        | Stages changes for the next commit       |
+| `git commit -m "Create bootcamp folder structure and Day 1 notes"` | Saves a snapshot of your work locally    |
+| `git push`                                                         | Uploads your commits to GitHub           |
+| `git pull`                                                         | Downloads the latest changes from GitHub |
+
+Save and Exit --> Press the Esc key. --> Type: `:wq`
+Cancel the commit --> If you don't want to commit right now: --> Press Esc --> Type: `:q!`
