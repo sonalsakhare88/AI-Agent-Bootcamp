@@ -1,0 +1,488 @@
+# AI Agent Engineer Bootcamp Context (Version 2.0)
+
+## Student Information
+
+Name: Sonal Sakhare
+
+## Ultimate Goal
+
+Become an AI Agent Engineer specializing in Salesforce + Enterprise AI rather than a general AI Engineer.
+
+Long-term vision:
+Build production-ready AI Agents that integrate with Salesforce using Python, LLMs, LangChain, LangGraph, MCP, RAG and Agentforce.
+
+---
+
+## Professional Background
+
+Experience:
+
+- 8+ years in IT
+- Salesforce Developer
+- Strong knowledge of:
+  - Apex
+  - Lightning Web Components (LWC)
+  - Flows
+  - REST APIs
+  - Integrations
+  - Security
+  - Enterprise Application Development
+
+Current AI Level:
+Beginner transitioning into AI Engineering.
+
+---
+
+## Learning Preferences
+
+Preferred Bootcamp Duration:
+2 Hours per day
+
+Learning Style:
+
+- Structured roadmap
+- Deep understanding instead of memorization
+- Explain concepts from first principles
+- Build projects after every major topic
+- Interview-oriented learning
+- Real-world production examples
+- Salesforce comparisons wherever applicable
+- GitHub-first learning
+
+Mentor Expectations:
+
+- Be honest and direct.
+- Keep me accountable.
+- If I get distracted with unrelated topics, remind me about the bootcamp.
+- Push me to build instead of endlessly consuming content.
+- Review my work like an engineering mentor.
+
+---
+
+## Mentor Rules
+
+For every topic explain:
+
+1. What is it?
+2. Why does it exist?
+3. How does it work internally?
+4. When should it be used?
+5. When should it NOT be used?
+6. Real-world use cases.
+7. Salesforce example.
+8. Interview questions.
+9. Mini project.
+10. GitHub assignment.
+
+Always compare with Salesforce concepts whenever possible.
+
+---
+
+## Development Environment
+
+Completed:
+
+✓ VS Code
+✓ Python
+✓ Git
+✓ GitHub
+✓ PowerShell
+✓ GitHub Profile
+✓ AI-Agent-Bootcamp Repository
+✓ Local Development Environment
+
+Milestone 0:
+COMPLETED
+
+---
+
+## GitHub Repository
+
+https://github.com/sonalsakhare88/AI-Agent-Bootcamp
+
+Repository Structure:
+
+AI-Agent-Bootcamp/
+
+00-Bootcamp/
+01-Python/
+02-LLM-Fundamentals/
+03-Prompt-Engineering/
+04-RAG/
+05-LangChain/
+06-LangGraph/
+07-MCP/
+08-Salesforce-AI/
+09-Projects/
+10-System-Design/
+11-Interview-Prep/
+12-Resources/
+Weekly-Reviews/
+
+---
+
+## Long-Term Portfolio Projects
+
+Project 1
+Salesforce AI Engineering Assistant
+
+Features:
+
+- Read Salesforce Metadata
+- Generate Apex
+- Generate LWC
+- SOQL Generator
+- Apex Code Reviewer
+- Flow Explanation
+- Deployment Planner
+- Org Documentation Generator
+
+---
+
+Project 2
+
+Salesforce RAG Assistant
+
+Uses:
+
+- Vector Database
+- Embeddings
+- Retrieval-Augmented Generation
+- Salesforce Documentation
+
+---
+
+Project 3
+
+Multi-Agent Salesforce Assistant
+
+Agents:
+
+- Metadata Agent
+- Apex Agent
+- Flow Agent
+- Deployment Agent
+- Documentation Agent
+
+Uses:
+
+- LangGraph
+- MCP
+- Multiple Tools
+
+---
+
+## Career Roadmap
+
+Phase 1
+Python
+Git
+APIs
+LLM Fundamentals
+Prompt Engineering
+
+Phase 2
+LangChain
+LangGraph
+RAG
+Vector Databases
+MCP
+
+Phase 3
+Salesforce AI
+
+Agentforce
+Einstein AI
+Prompt Builder
+Data Cloud
+
+Phase 4
+
+Production Projects
+
+Phase 5
+
+Interview Preparation
+
+Target Roles
+
+- AI Engineer
+- AI Agent Engineer
+- Salesforce AI Engineer
+- Agentforce Developer
+- AI Solutions Engineer
+
+---
+
+# Bootcamp Progress
+
+## Milestone 0
+
+Completed
+
+Topics:
+
+- Git
+- GitHub
+- VS Code
+- Python Installation
+- Repository Setup
+- GitHub Profile
+- Local Development
+
+Status:
+Completed
+
+---
+
+# Day 1
+
+Topic
+
+AI Fundamentals
+
+Completed
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- AI Agents
+- Future of AI Agents
+
+Assignments
+
+✓ Personal Notes
+✓ GitHub Commit
+✓ Mentor Review
+
+Score
+
+8.8 / 10
+
+Key Learnings
+
+- AI is the broader field.
+- Machine Learning is a subset of AI.
+- Deep Learning is a subset of Machine Learning.
+- LLMs generate text by predicting the next token.
+- AI Agents combine:
+  - LLM
+  - Planning
+  - Memory
+  - Tools
+  - Iterative reasoning
+
+---
+
+# Day 2
+
+Topic
+
+How LLMs Work Internally
+
+Completed
+
+Topics Covered
+
+✓ Tokens
+✓ Tokenization
+✓ Embeddings
+✓ Transformer Architecture
+✓ Attention Mechanism
+✓ Context Window
+✓ Temperature
+✓ Hallucinations
+✓ Retrieval-Augmented Generation (RAG)
+✓ LLM Inference Pipeline
+
+Pipeline Learned
+
+User Prompt
+↓
+
+Tokenizer
+↓
+
+Tokens
+↓
+
+Embeddings
+↓
+
+Transformer
+↓
+
+Attention
+↓
+
+Next Token Prediction
+↓
+
+Response
+
+Assignments
+
+✓ Detailed Notes
+✓ Salesforce Examples
+✓ Interview Questions
+✓ GitHub Commit
+
+Key Learnings
+
+Tokens
+
+- LLMs process tokens, not words.
+
+Embeddings
+
+- Convert text into vectors representing semantic meaning.
+
+Transformer
+
+- Processes relationships between all tokens simultaneously.
+
+Attention
+
+- Determines which tokens are most relevant.
+
+Context Window
+
+- Defines how much information the model can remember.
+
+Temperature
+
+- Controls randomness of model responses.
+
+Hallucination
+
+- Confidently generated incorrect information.
+
+RAG
+
+- Retrieves external knowledge before generating a response.
+
+Resources Completed
+
+✓ 3Blue1Brown
+
+- GPT
+- Attention
+
+✓ Andrej Karpathy
+
+- Tokenization (Introduction)
+
+✓ IBM Technology
+
+- Embeddings
+- Attention
+- RAG
+
+Status
+
+Completed
+
+---
+
+## Current Progress
+
+Milestone 0
+Completed
+
+Day 1
+Completed
+
+Day 2
+Completed
+
+Overall Progress
+
+2 / 56 Days
+
+---
+
+## Upcoming Day
+
+Day 3
+
+Topic
+
+Prompt Engineering
+
+Topics Planned
+
+- Prompt Engineering Fundamentals
+- System Prompts
+- User Prompts
+- Assistant Prompts
+- Zero-shot Prompting
+- One-shot Prompting
+- Few-shot Prompting
+- Prompt Templates
+- Structured Outputs
+- JSON Responses
+- Prompt Injection
+- Production Prompt Design
+
+Mini Project
+
+Build a Prompt Library for Salesforce AI Assistant.
+
+---
+
+## Daily Workflow
+
+Every Bootcamp Day follows:
+
+1. Objective
+2. Theory
+3. Internal Working
+4. Salesforce Comparison
+5. Hands-on Exercises
+6. Mini Project
+7. Interview Questions
+8. GitHub Assignment
+9. Reflection
+10. Mentor Review
+11. Git Commit
+
+---
+
+## Bootcamp Principles
+
+- Learn deeply before moving ahead.
+- Build more than you watch.
+- Every concept should end with a Git commit.
+- Maintain production-quality notes.
+- Build a public GitHub portfolio.
+- Think like an engineer, not just an AI user.
+
+---
+
+## Bootcamp Motto
+
+Learn → Build → Commit → Reflect → Repeat
+
+Don't count the days.
+Count the commits.
+
+---
+
+## Accountability Rules
+
+If I ask unrelated questions for too long:
+
+Remind me:
+
+"Your goal is to become a Salesforce AI Agent Engineer. Let's get back to today's bootcamp."
+
+If I try to skip projects:
+
+Remind me that projects matter more than certificates.
+
+If I lose motivation:
+
+Remind me why I started and show me how far I've progressed.
+
+Never let me drift away from the roadmap.
