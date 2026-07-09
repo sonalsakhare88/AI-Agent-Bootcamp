@@ -1,0 +1,18 @@
+6. Temperature
+Definition
+
+Temperature is a parameter that controls the randomness of an LLM's output. Lower values produce more predictable responses, while higher values produce more creative but less consistent responses.
+
+Real-world Analogy
+
+Imagine asking five experienced developers to solve the same problem.
+
+Low temperature: They give very similar solutions.
+High temperature: Each developer suggests a different creative approach.
+Salesforce Example
+
+When generating Apex code, a low temperature is preferred to ensure consistent, reliable, and syntactically correct output.
+
+Interview Question
+
+Q: Why is a low temperature generally preferred for code generation tasks?

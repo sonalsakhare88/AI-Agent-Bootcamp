@@ -1,0 +1,20 @@
+4. Attention Mechanism
+Definition
+
+The Attention Mechanism allows the model to determine which previous words or tokens are most important when predicting the next token. It helps the model maintain context and understand relationships in the input.
+
+Real-world Analogy
+
+While reading a book, your brain naturally remembers the important characters and events instead of treating every sentence with equal importance.
+
+Salesforce Example
+
+Prompt:
+
+"Sonal created an Apex Trigger. She deployed it successfully."
+
+The model understands that "She" refers to "Sonal" using the attention mechanism.
+
+Interview Question
+
+Q: What problem does the Attention Mechanism solve in Large Language Models?

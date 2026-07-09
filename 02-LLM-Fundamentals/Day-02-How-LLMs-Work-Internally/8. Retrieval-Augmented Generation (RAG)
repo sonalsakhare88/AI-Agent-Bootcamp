@@ -1,0 +1,15 @@
+Definition
+
+Retrieval-Augmented Generation (RAG) combines an LLM with an external knowledge source. Before generating a response, the system retrieves relevant documents and includes them in the prompt to improve accuracy.
+
+Real-world Analogy
+
+Instead of answering an exam question from memory, you first open the textbook, find the correct information, and then write the answer.
+
+Salesforce Example
+
+A Salesforce AI Agent retrieves the latest company documentation, Apex classes, or Knowledge Articles before answering questions about a Salesforce Org.
+
+Interview Question
+
+Q: If LLMs are already trained on massive datasets, why is Retrieval-Augmented Generation (RAG) still necessary?

@@ -1,0 +1,19 @@
+Definition
+
+A token is the smallest unit of text that a Large Language Model (LLM) processes. A token can be a whole word, part of a word, punctuation, or even a single character depending on the tokenizer.
+
+Real-world Analogy
+
+Think of building a LEGO model. Instead of seeing the whole castle, you first separate it into individual LEGO blocks. Similarly, an LLM breaks text into tokens before processing it.
+
+Salesforce Example
+
+If a user asks:
+
+"Generate an Apex class to update Account records."
+
+The AI first breaks this sentence into tokens before understanding and generating the code.
+
+Interview Question
+
+Q: Is a token always equal to one word? Explain with an example.

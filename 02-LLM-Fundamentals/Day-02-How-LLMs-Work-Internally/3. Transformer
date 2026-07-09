@@ -1,0 +1,15 @@
+Definition
+
+A Transformer is the neural network architecture used by modern LLMs. It processes all tokens simultaneously and learns relationships between them using the attention mechanism.
+
+Real-world Analogy
+
+Imagine a project manager who can listen to every team member at the same time instead of talking to one person after another. This allows faster and more informed decision-making.
+
+Salesforce Example
+
+When generating an Apex class, the transformer considers the entire prompt—requirements, object names, and business logic—at once instead of reading it one word at a time.
+
+Interview Question
+
+Q: Why are Transformer models faster and more effective than traditional sequential models like RNNs?

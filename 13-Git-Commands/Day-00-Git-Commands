@@ -8,3 +8,7 @@
 
 Save and Exit --> Press the Esc key. --> Type: `:wq`
 Cancel the commit --> If you don't want to commit right now: --> Press Esc --> Type: `:q!`
+
+pwd
+cd AI-Agent-Bootcamp
+git status

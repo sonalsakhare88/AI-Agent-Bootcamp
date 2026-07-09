@@ -1,0 +1,43 @@
+Key Takeaways
+Tokens are the smallest units of text processed by an LLM.
+Embeddings convert text into numerical vectors that capture meaning.
+Transformers process relationships between all tokens simultaneously.
+Attention helps the model focus on the most relevant information.
+Context Window defines how much information the model can remember during a conversation.
+Temperature controls the randomness and creativity of the model's responses.
+Hallucinations occur when the model confidently generates incorrect information.
+RAG improves accuracy by retrieving relevant external information before generating a response.
+
+How ChatGPT Answers a Question
+
+Imagine you ask:
+
+"Write an Apex class to call a REST API."
+
+Inside the model, something like this happens:
+
+User Prompt
+│
+▼
+Tokenizer
+│
+▼
+Tokens
+│
+▼
+Embeddings
+│
+▼
+Transformer
+│
+▼
+Attention
+│
+▼
+Predict Next Token
+│
+▼
+Repeat...
+│
+▼
+Final Response

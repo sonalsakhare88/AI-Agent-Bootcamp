@@ -1,0 +1,15 @@
+Definition
+
+Embeddings are numerical vector representations of words, sentences, or documents that capture their meaning and relationships. Similar meanings have vectors that are close together in vector space.
+
+Real-world Analogy
+
+Imagine plotting cities on a map. Cities that are geographically close are easier to travel between. Similarly, words with similar meanings have embeddings that are close together.
+
+Salesforce Example
+
+A Salesforce AI Assistant can understand that "Lead", "Prospect", and "Potential Customer" are semantically related because their embeddings are similar.
+
+Interview Question
+
+Q: Why do AI systems convert text into embeddings instead of processing plain text directly?

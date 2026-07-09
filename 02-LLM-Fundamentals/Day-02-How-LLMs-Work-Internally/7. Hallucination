@@ -1,0 +1,15 @@
+Definition
+
+Hallucination occurs when an LLM generates incorrect or fabricated information while presenting it confidently as if it were true.
+
+Real-world Analogy
+
+Imagine a student who doesn't know the answer in an exam but confidently writes something that sounds convincing.
+
+Salesforce Example
+
+If asked about a Salesforce feature that doesn't exist, the model may invent APIs, objects, or functionality instead of admitting it doesn't know.
+
+Interview Question
+
+Q: What causes hallucinations in Large Language Models, and how can they be reduced?

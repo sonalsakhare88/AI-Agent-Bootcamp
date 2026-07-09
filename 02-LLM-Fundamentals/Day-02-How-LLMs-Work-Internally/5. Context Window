@@ -1,0 +1,15 @@
+Definition
+
+A Context Window is the maximum amount of information (measured in tokens) that an LLM can remember and use while generating a response.
+
+Real-world Analogy
+
+Think of a whiteboard with limited space. Once it becomes full, you must erase older information to write something new.
+
+Salesforce Example
+
+If an AI Assistant reads multiple Apex classes, Flows, and Object Metadata that exceed the context window, older information may be discarded unless Retrieval-Augmented Generation (RAG) is used.
+
+Interview Question
+
+Q: What happens when the input exceeds an LLM's context window?
