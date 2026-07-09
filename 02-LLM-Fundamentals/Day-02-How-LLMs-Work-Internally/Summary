@@ -41,3 +41,15 @@ Repeat...
 │
 ▼
 Final Response
+
+Interview Questions You Should Now Be Able to Answer
+What is a token?
+Why aren't tokens always whole words?
+Why do LLMs use embeddings?
+What is the Transformer architecture?
+What is the Attention Mechanism?
+What is a Context Window?
+What happens when the context window is exceeded?
+What does Temperature control?
+Why do hallucinations occur?
+Why is RAG necessary even though LLMs are trained on massive datasets?

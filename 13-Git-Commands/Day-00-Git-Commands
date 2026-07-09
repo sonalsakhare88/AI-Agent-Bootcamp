@@ -12,3 +12,6 @@ Cancel the commit --> If you don't want to commit right now: --> Press Esc --> T
 pwd
 cd AI-Agent-Bootcamp
 git status
+git add .
+git commit -m "Day 2: LLM Internals"
+git push
